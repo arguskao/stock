@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019</copyright>
-    <lastBuildDate>Sat, 19 Jun 2021 15:44:32 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 21 Jun 2021 21:18:04 +0800</lastBuildDate>
     
 	<atom:link href="https://stock.hi29.net/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>自言自語</title>
+      <link>https://stock.hi29.net/categories/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AA%9E/</link>
+      <pubDate>Mon, 21 Jun 2021 21:18:04 +0800</pubDate>
+      
+      <guid>https://stock.hi29.net/categories/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AA%9E/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ETF</title>
@@ -18,15 +27,6 @@
       <pubDate>Sat, 19 Jun 2021 15:44:32 +0800</pubDate>
       
       <guid>https://stock.hi29.net/categories/etf/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>自言自語</title>
-      <link>https://stock.hi29.net/categories/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AA%9E/</link>
-      <pubDate>Fri, 18 Jun 2021 21:22:56 +0800</pubDate>
-      
-      <guid>https://stock.hi29.net/categories/%E8%87%AA%E8%A8%80%E8%87%AA%E8%AA%9E/</guid>
       <description></description>
     </item>
     
